@@ -6,7 +6,7 @@
   "ava": {
     "verbose": "true"
   },
-  "bugs": "https://github.com/muthuks2020/records/spikebasic2",
+  "bugs": "https://github.com/muthuks2020/contentfulspike/bugs",
   "dependencies": {
     "reshape-standard": "^1.0.0",
     "spike": "^1.0.0",
@@ -24,10 +24,10 @@
     "spike-core": "^1.0.0",
     "standard": "^10.0.0"
   },
-  "homepage": "https://github.com/muthuks2020/spikebasic2",
+  "homepage": "https://github.com/muthuks2020/contentfulspike",
   "main": "app.js",
   "private": true,
-  "repository": "https://github.com/muthuks2020/spikebasic2",
+  "repository": "https://github.com/muthuks2020/contentfulspike",
   "scripts": {
     "lint": "standard | snazzy",
     "precommit": "npm run lint -s",
